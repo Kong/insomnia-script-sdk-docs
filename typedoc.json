@@ -1,0 +1,8 @@
+{
+  "name": "Insomnia-Script-SDK-Docs",
+  "projectDocuments": [
+    "README.md"
+  ],
+  "pretty": true,
+  "out": "./docs",
+}
